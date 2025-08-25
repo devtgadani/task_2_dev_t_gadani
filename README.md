@@ -146,7 +146,7 @@ The following repositories were instrumental in the development of this project:
 ![game1](./images/gamescreenshot.webp )
 ![game1](./images/gamescreenshot.webp )
 
-
+------------
 ### Core Technologies
 ### Liquid Galaxy Resources
 - **Liquid Galaxy Scripts**: [https://github.com/LiquidGalaxyLAB/liquid-galaxy](https://github.com/LiquidGalaxyLAB/liquid-galaxy)
@@ -158,5 +158,6 @@ The following repositories were instrumental in the development of this project:
 [![Demo Video](https://img.shields.io/badge/Demo-Watch%20Video-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5bYNLjyn9rY&t=7676s)
 
 *This simulator provides an educational and engaging way to understand air traffic control operations while showcasing the capabilities of Liquid Galaxy technology.*
+
 
 
