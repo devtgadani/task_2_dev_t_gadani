@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 //test
 
 <div align="center">
-  <img src="./images/1.webp" alt="Mobile Controller Screen 1" width="200" height="400">
+  <img src="https://github.com/LiquidGalaxyLAB/LG-Airport-Controller-Simulator/blob/cbe07728c1c42f847a61da42af01dca70b974cc6/images/1.webp" alt="Mobile Controller Screen 1" width="200" height="400">
   <img src="./images/2.webp" alt="Mobile Controller Screen 2" width="200" height="400">
   <img src="./images/3.webp" alt="Mobile Controller Screen 3" width="200" height="400">
   <img src="./images/4.png" alt="Mobile Controller Screen 4" width="200" height="400">
