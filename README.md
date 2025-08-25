@@ -161,3 +161,14 @@ The following repositories were instrumental in the development of this project:
 
 
 
+## 🚀 Download & Install
+
+[![Download Latest](https://img.shields.io/github/v/release/yourusername/yourreponame?style=for-the-badge&logo=github&label=Download%20Latest)](https://github.com/yourusername/yourreponame/releases/latest)
+
+### Quick Downloads:
+- 📱 **Mobile App**: [Download APK](https://github.com/yourusername/yourreponame/releases/download/v1.0/app.apk) (5.2 MB)
+- 💻 **Desktop App**: [Download ZIP](https://github.com/yourusername/yourreponame/releases/download/v1.0/desktop-app.zip) (15.8 MB)  
+- 📄 **Source Code**: [Download Source](https://github.com/yourusername/yourreponame/archive/refs/heads/main.zip) (2.1 MB)
+
+
+
