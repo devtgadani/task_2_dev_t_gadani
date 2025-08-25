@@ -155,27 +155,8 @@ The following repositories were instrumental in the development of this project:
 - **Galaxy Pacman**: [project that gave reference to screen management](https://github.com/LiquidGalaxyLAB/galaxy-pacman)
 - **LG RetroGaming**: [Give understanding for screen number as in head LG lab ](https://github.com/LiquidGalaxyLAB/lg-retro-gaming)
 
-<!-- License Badge -->
-![License](https://img.shields.io/github/license/devtgadani/task_2_dev_t_gadani)
-
-<!-- Languages Count -->
-![Languages](https://img.shields.io/github/languages/count/devtgadani/task_2_dev_t_gadani)
-
-<!-- Top Language -->
-![Top Language](https://img.shields.io/github/languages/top/devtgadani/task_2_dev_t_gadani)
-
-<!-- Issues -->
-![Issues](https://img.shields.io/github/issues/devtgadani/task_2_dev_t_gadani)
-
-<!-- Forks -->
-![Forks](https://img.shields.io/github/forks/devtgadani/task_2_dev_t_gadani)
-
-<!-- Stars -->
-![Stars](https://img.shields.io/github/stars/devtgadani/task_2_dev_t_gadani)
-
-<!-- Repo Size -->
-![Repo Size](https://img.shields.io/github/repo-size/devtgadani/task_2_dev_t_gadani)
----
+[![Demo Video](https://img.shields.io/badge/Demo-Watch%20Video-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5bYNLjyn9rY&t=7676s)
 
 *This simulator provides an educational and engaging way to understand air traffic control operations while showcasing the capabilities of Liquid Galaxy technology.*
+
 
